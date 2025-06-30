@@ -45,15 +45,4 @@ Features include: tenure, contract type, charges, payment method, services, and 
 
 ---
 
-## 📁 Project Structure
-```
-├── Churn_LTV_Project.ipynb
-├── README.md
-└── /assets (optional for charts)
-```
 
----
-
-## ✅ Resume Bullet (XYZ Format)
-Built a churn + lifetime value prediction pipeline using XGBoost and SHAP on Telco data, engineering features from contract, usage, and tenure to handle class imbalance and leakage.  
-Achieved 84% churn F1 and ±$12 MAE on LTV, creating interpretable outputs and dashboards to drive retention strategy.
